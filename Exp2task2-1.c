@@ -1,8 +1,8 @@
 /*Aim : WAP to find if entered number is even or odd.
 
-Name    : Mohammad Basharat Khan
-Roll no :9
-UIN     :241A009
+Name    : Memon Ahmed
+Roll no :35
+UIN     :241A043
 Division:A
 */
 
