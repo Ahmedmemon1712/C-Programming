@@ -1,8 +1,8 @@
 /* Aim:Design A structure student_record to contain name,roll_number, and total marks obtained.
     Write a program to read 5 students data fromm the user and then display the topper on the screen 
-Name : Mohammad Basharat Mohammad Hayat Khan
-Roll no: 09
-UIN : 241A009
+Name : Memon Ahmed
+Roll no: 35
+UIN : 241A043
 Division : A */
 
 #include <stdio.h>
