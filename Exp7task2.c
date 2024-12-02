@@ -1,7 +1,7 @@
 /* Aim: WAP to calculate the sum of matrix 
-Name     : Mohammad Basharat Khan
-Roll No  : 9
-UIN      : 241A009
+Name     : Memon Ahmed
+Roll No  : 35
+UIN      : 241A043
 Division : A */
 
 #include<stdio.h>
