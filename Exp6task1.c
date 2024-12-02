@@ -1,7 +1,7 @@
 /* Aim: WAP to define a counter function to print how many times the function is called use storage classes.
-Name     : Mohammad Basharat Khan
-Roll No  : 9
-UIN      : 241A009
+Name     : Memon Ahmed
+Roll No  : 35
+UIN      : 241A043
 Division : A */
 #include<stdio.h>
 void counter(){
